@@ -1,0 +1,40 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f6f0fa; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-size: 2rem;
+  color: #9b59b6; 
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+#input {
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  border: 2px solid #d3c0e0; 
+  border-radius: 10px;
+  outline: none; /* Retire le bleu moche par defaut */
+  background-color: #fff;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  width: 250px;
+  margin-bottom: 1rem;
+}
+
+#input:focus {
+  border-color: #bb99dd; 
+  box-shadow: 0 0 0 3px rgba(187, 153, 221, 0.3); 
+}
+
+#greet {
+  font-size: 1.5rem;
+  color: #4b3b63;
+}
