@@ -1,4 +1,4 @@
-# 🎓 Frida Onboarding — Correction
+# 🎓 Frida Khalo Paris Onboarding — Correction
 
 Bienvenue dans le dépôt de correction de l'onboarding Frida.  
 Ce repo contient les exercices pratiqués lors de la premiére semaine d‘onborading de la promotion Frida Khalo 🔥
