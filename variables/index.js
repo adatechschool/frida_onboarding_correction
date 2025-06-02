@@ -31,5 +31,5 @@ let name = "Jane Doe";
 
 
 // Exercice 4: Afficher le type de la variable name et de la variable age dans la console.
-console.log("Le type de la variable name est:", typeof name);
-console.log("Le type de la variable age est:", typeof age);
+//console.log("Le type de la variable name est:", typeof name);
+//console.log("Le type de la variable age est:", typeof age);
